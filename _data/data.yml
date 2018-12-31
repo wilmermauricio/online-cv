@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: marcos941216@gmail.com
     phone: 829 408 1116
-    website: blog.webjeda.com #do not add http://
-    linkedin: MarcosxSenpai
-    github: MarcosxSenpai
+    website: about.me/marcos941216 #do not add http://
+    linkedin:
+    github:
     gitlab:
     bitbucket:
-    twitter: #'@webjeda'
+    twitter: #'@Username'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,13 +32,16 @@ sidebar:
         level: intermediate
 
     interests:
-      - item: Climbing
+      - item: Game Programming
+        link:
+        
+      - item: Game Design
         link:
 
-      - item: Snowboarding
-        link:
+      - item: 3D Modeling
+        link: 
 
-      - item: Cooking
+      - item: 3D Animation
         link:
 
 career-profile:
@@ -63,13 +66,10 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
 experiences:
     - role: Software Developer
       time: 2017 - Present
-      company: Informatik Solutions Groups, Santo Domingo
+      company: Informatik Solutions Groups
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -80,9 +80,6 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
@@ -117,22 +114,22 @@ skills:
 
     toolset:
       - name: C# & ASP.Net Core
-        level: 95%
+        level: 90%
 
       - name: Xamarin
-        level: 95%
+        level: 90%
 
       - name: Azure
-        level: 95%
+        level: 90%
 
       - name: HTML5 & CSS3
-        level: 85%
+        level: 70%
 
       - name: Javascript & Vue.Js
-        level: 85%
+        level: 70%
 
       - name: Node.Js & Express.Js
-        level: 85%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
