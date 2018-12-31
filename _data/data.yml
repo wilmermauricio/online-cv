@@ -43,33 +43,20 @@ education:
       university: Instituto Tecnologico de Las Americas
       time: 2016 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe your study here.
 
 experiences:
     - role: Software Developer
       time: 2017 - Present
       company: Informatik Solutions Groups
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe your role here.
 
 projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      section.
 
     assignments:
       - title: Digital State
@@ -88,7 +75,7 @@ projects:
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Gatekeeper Saas
+      - title: Gatekeeper
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
@@ -99,19 +86,13 @@ skills:
       - name: C# & ASP.Net Core
         level: 90%
 
-      - name: Xamarin
-        level: 90%
-
-      - name: Azure
+      - name: Azure & DevOps
         level: 90%
 
       - name: HTML5 & CSS3
         level: 70%
 
       - name: Javascript & Vue.Js
-        level: 70%
-
-      - name: Node.Js & Express.Js
         level: 70%
 
 footer: >
