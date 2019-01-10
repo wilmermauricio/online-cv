@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: marcos941216@gmail.com
-    phone: 829 408 1116
-    website: about.me/marcos941216 #do not add http://
+    phone: 849 218 1994
+    website: #do not add http://
     linkedin: marcosxdeveloper
     github: marcosxdeveloper
     gitlab:
@@ -39,7 +39,7 @@ sidebar:
         link:
 
 education:
-    - degree: Tecnico en Redes Cisco
+    - degree: Curso de Redes Cisco (CCNA)
       university: Centro de Tecnologia Universal
       time: 2015 - 2016
       details: |
@@ -61,15 +61,15 @@ experiences:
 publications:
     title: Personale References
     papers:
-      - title: David Peralta
-        authors: ScotiaBank
+      - title: David Peralta (coworker)
+        authors: Informatik Solutions Group
         conference: "+1 (809) 351-8819"
 
-      - title: Ian Alberto
-        authors: Claro
+      - title: Ian Alberto (coworker)
+        authors: Informatik Solutions Group
         conference: "+1 (849) 250-7970"
 
-      - title: Daniel Guerrero
+      - title: Daniel Guerrero (team leader)
         authors: Informatik Solutions Group
         conference: "+1 (829) 469-9983 "
 
