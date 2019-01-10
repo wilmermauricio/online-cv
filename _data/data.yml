@@ -42,21 +42,15 @@ education:
     - degree: Curso de Redes Cisco (CCNA)
       university: Centro de Tecnologia Universal
       time: 2015 - 2016
-      details: |
-        Describe your study here.
         
     - degree: Tecnologo en Software
       university: Instituto Tecnologico de Las Americas
       time: 2016 - 2018
-      details: |
-        Describe your study here.
 
 experiences:
     - role: Software Developer
       time: 2017 - Present
       company: Informatik Solutions Groups
-      details: |
-        Describe your role here.
      
 publications:
     title: Personale References
@@ -71,7 +65,7 @@ publications:
 
       - title: Daniel Guerrero (team leader)
         authors: Informatik Solutions Group
-        conference: "+1 (829) 469-9983 "
+        conference: "+1 (829) 469-9983"
 
 skills:
     title: Skills &amp; Proficiency
