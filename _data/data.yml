@@ -15,8 +15,8 @@ sidebar:
     email: marcos941216@gmail.com
     phone: 829 408 1116
     website: about.me/marcos941216 #do not add http://
-    linkedin:
-    github:
+    linkedin: marcosxdeveloper
+    github: marcosxdeveloper
     gitlab:
     bitbucket:
     twitter: #'@Username'
@@ -39,6 +39,12 @@ sidebar:
         link:
 
 education:
+    - degree: Tecnico en Redes Cisco
+      university: Centro de Tecnologia Universal
+      time: 2015 - 2016
+      details: |
+        Describe your study here.
+        
     - degree: Tecnologo en Software
       university: Instituto Tecnologico de Las Americas
       time: 2016 - 2018
@@ -51,33 +57,21 @@ experiences:
       company: Informatik Solutions Groups
       details: |
         Describe your role here.
+     
+publications:
+    title: Personale References
+    papers:
+      - title: David Peralta
+        authors: ScotiaBank
+        conference: "+1 (809) 351-8819"
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section.
+      - title: Ian Alberto
+        authors: Claro
+        conference: "+1 (849) 250-7970"
 
-    assignments:
-      - title: Digital State
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: TQuest
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: CRM
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Coinducation
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Gatekeeper
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Daniel Guerrero
+        authors: Informatik Solutions Group
+        conference: "+1 (829) 469-9983 "
 
 skills:
     title: Skills &amp; Proficiency
