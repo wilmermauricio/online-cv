@@ -12,18 +12,10 @@ sidebar:
     avatar: marcos.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    contact:
-        - email: marcos941216@gmail.com
-        - phone: 849 218 1994
-    # website: #do not add http://
-        - linkedin: marcosxdeveloper
-        - github: marcosxdeveloper
-    # gitlab:
-    # bitbucket:
-    # twitter: #'@Username'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
+    email: marcos941216@gmail.com
+    phone: 849 218 1994
+    linkedin: marcosxdeveloper
+    github: marcosxdeveloper
 
     languages:
       - idiom: Spanish
@@ -61,6 +53,18 @@ experiences:
     - role: Software Developer
       time: 2017 - Present
       company: Informatik Solutions Groups
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
      
 publications:
     title: Personale References
