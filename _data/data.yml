@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Marcos Gonzalez
@@ -12,17 +12,18 @@ sidebar:
     avatar: marcos.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: marcos941216@gmail.com
-    phone: 849 218 1994
-    website: #do not add http://
-    linkedin: marcosxdeveloper
-    github: marcosxdeveloper
-    gitlab:
-    bitbucket:
-    twitter: #'@Username'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    contact:
+        - email: marcos941216@gmail.com
+        - phone: 849 218 1994
+    # website: #do not add http://
+        - linkedin: marcosxdeveloper
+        - github: marcosxdeveloper
+    # gitlab:
+    # bitbucket:
+    # twitter: #'@Username'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Spanish
