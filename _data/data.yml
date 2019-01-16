@@ -52,40 +52,36 @@ education:
 experiences:
     - role: Software Developer
       time: 2017 - Present
-      company: Informatik Solutions Groups
+      company: Informatik Solutions Group ISG, srl
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        En esta empresa me dedique a crear servicios web (API REST) con ASP.NET Core
+        y también páginas web (SPA / PWA) con Vue.Js.
+        
+          - Crear servicios web (API Rest)
+          - Crear aplicaciones web (SPA/PWA) para consumir esos servicios web
+          - Hacer deploy de los servicios y aplicaciones web en Azure
+          - Hacer Pruebas de software
      
 publications:
     title: Personale References
     papers:
-      - title: David Peralta (coworker)
-        authors: Informatik Solutions Group
+      - title: David Peralta
+        authors: Software Developer, Informatik Solutions Group ISG, srl
         conference: "+1 (809) 351-8819"
 
-      - title: Ian Alberto (coworker)
-        authors: Informatik Solutions Group
+      - title: Ian Alberto
+        authors: Software Developer, Informatik Solutions Group ISG, srl
         conference: "+1 (849) 250-7970"
 
-      - title: Daniel Guerrero (team leader)
-        authors: Informatik Solutions Group
+      - title: Daniel Guerrero
+        authors: Project Manager, Informatik Solutions Group ISG, srl
         conference: "+1 (829) 469-9983"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# & ASP.Net Core
+      - name: C# & ASP.NET Core
         level: 90%
 
       - name: Azure & DevOps
