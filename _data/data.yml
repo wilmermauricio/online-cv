@@ -37,14 +37,23 @@ sidebar:
         
       - item: Game Design
         link:
+        
+career-profile:
+    title: Career Profile
+    summary: |
+      Programador con experiencia, capaz de trabajar en equipo y con buena puntualidad, 
+      capacitado en programación Backend (C#, Express) y Frontend (Angular, Vue), 
+      como también en la gestión de base de datos (SQL Server, MYSQL), 
+      análisis y diseño de aplicaciones y administración de los servicios de Microsoft Azure, 
+      orientado mayormente al desarrollo de aplicaciones Web.
 
 education:
-    - degree: Curso de Redes Cisco (CCNA)
-      university: Centro de Tecnologia Universal
-      time: 2015 - 2016
+    - degree: Cisco Systems (CCNA)
+      university: Centro de Tecnología Universal
+      time: 2015 - 2015
         
-    - degree: Tecnologo en Software
-      university: Instituto Tecnologico de Las Americas
+    - degree: Tecnólogo en Software
+      university: Instituto Tecnológico de Las Américas
       time: 2016 - 2018
 
 experiences:
