@@ -34,11 +34,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Programador con experiencia, capaz de trabajar en equipo y con buena puntualidad, 
-      capacitado en programación Backend (C#, Express) y Frontend (Angular, Vue), 
-      como también en la gestión de base de datos (SQL Server, MYSQL), 
-      análisis y diseño de aplicaciones y administración de los servicios de Microsoft Azure, 
-      orientado mayormente al desarrollo de aplicaciones Web.
+      Programmer with experience in Microsoft development tools,
+      ability to work in a team using agile methodologies such as SCRUM,
+      Knowledge in Backend development (ASP.NET/Node.JS) and Frontend development (Angular/Vue),
+      knowledge in database management (SQL Server/MongoDB), 
+      knowledge using cloud services (Azure).
 
 education:
     - degree: Cisco Systems (CCNA)
@@ -54,13 +54,12 @@ experiences:
       time: 2017 - Present
       company: Informatik Solutions Group ISG, srl
       details: |
-        En esta empresa me dedique a crear servicios web (API REST) con ASP.NET Core
-        y también páginas web (SPA / PWA) con Vue.Js.
+        here are some roles that I had in this company.
         
-          - Crear servicios web (API Rest)
-          - Crear aplicaciones web (SPA/PWA) para consumir esos servicios web
-          - Hacer deploy de los servicios y aplicaciones web en Azure
-          - Hacer Pruebas de software
+          - create and maintain web services (WSDL/REST API)
+          - create and maintain web applications (SPA/PWA)
+          - publish services and web applications to the azure platform.
+          
      
 publications:
     title: Personale References
