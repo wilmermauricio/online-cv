@@ -12,84 +12,74 @@ sidebar:
     avatar: marcos.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: marcos941216@gmail.com
-    phone: 849 218 1994
-    linkedin: marcosxdeveloper
-    github: marcosxdeveloper
+    email: Jossydevers@gmail.com
+    phone: 809 850 3232
+    github: JossyDevers
+    gitlab: JossyDevers
 
     languages:
       - idiom: Spanish
         level: Native
 
       - idiom: English
-        level: intermediate
+        level: basic
 
     interests:
-      - item: Game Programming
-        link:
-        
-      - item: Game Design
-        link:
+      - item: Programacíon Web
         
 career-profile:
     title: Career Profile
-    summary: |
-      Programmer with experience in Microsoft development technologies,
-      ability to work in a team using agile methodologies,
-      Knowledge in Backend development (ASP.NET/Node.JS) and Frontend development (Angular/Vue),
-      knowledge in database management system (SQL Server/MongoDB) and cloud services administration (Azure).
+    summary:
+      Programador con experiencia en el desarrollo web, con capacidad para trabajar en equipo utilizando 
+      metodologías ágiles, y con habilidad en Back-end (ASP.NET CORE, PHP) y Front-end (VueJS), además 
+      con conocimiento en base de datos (SQL SERVER, MYSQL).
 
 education:
-    - degree: Cisco Systems (CCNA)
-      university: Centro de Tecnología Universal
-      time: 2015 - 2015
+    - degree: Ingeniería en Software
+      university: Universidad APEC
+      time: 2019 - Actualidad
         
     - degree: Tecnólogo en Software
       university: Instituto Tecnológico de Las Américas
       time: 2016 - 2018
 
 experiences:
-    - role: Software Developer
-      time: 2017 - Present
+    - role: Programador Web
+      time: 2018 - Actualidad
       company: Informatik Solutions Group ISG, srl
       details: |
-        here are some roles that I had in this company.
-        
-          - create and maintain web services (REST API)
-          - create and maintain web applications (SPA/PWA)
-          - publish services and web applications to the azure platform.
+        Funciones en la empresa:
+            Programador Web Front-end en Javascript usando Vue y Vuetify,
+            desempeñado en la creación de Web Applications y PWA, en ocasiones trabajando en Asp.net Core
           
      
 publications:
     title: Personale References
     papers:
-      - title: David Peralta
-        authors: Software Developer, Informatik Solutions Group ISG, srl
-        conference: "+1 (809) 351-8819"
+      - title: Sergio Joel Ferreras Batista
+        authors: Software Developer, Claro
+        conference: "+1 (829) 727-8985"
 
-      - title: Ian Alberto
-        authors: Software Developer, Informatik Solutions Group ISG, srl
-        conference: "+1 (849) 250-7970"
+      - title: Mikhael Santos Fernández
+        authors: Software Developer, Universidad Nacional Pedro Henríquez Ureña
+        conference: "+1 (849) 351-8051"
 
-      - title: Daniel Guerrero
-        authors: Project Manager, Informatik Solutions Group ISG, srl
-        conference: "+1 (829) 469-9983"
+      - title: Marcos Gonzalez
+        authors: Software Developer, Informatik Solutions Group ISG, srl
+        conference: "+1 (849) 218-1994"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# & ASP.NET Core
-        level: 90%
-
-      - name: Azure & DevOps
-        level: 90%
-
       - name: HTML5 & CSS3
-        level: 70%
+        level: 100%
 
       - name: Javascript & Vue.Js
-        level: 70%
+        level: 100%
+        
+      - name: C# & ASP.NET Core
+        level: 80%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: PHP
+        level: 70%
