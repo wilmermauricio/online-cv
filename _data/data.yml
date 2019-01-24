@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jossy Emil Devers
-    tagline: Web Developer
+    tagline: .NET Developer
     avatar: jossy.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
     github: JossyDevers
     gitlab: JossyDevers
 
-    Languages:
+    Idiomas:
       - idiom: Español
         level: Nativo
 
@@ -46,7 +46,7 @@ education:
 
 experiences:
     title: Experiencia
-    - role: Web Developer
+    - role: Programador Web
       time: 2018 - Actualidad
       company: Informatik Solutions Group ISG, srl
       details: |
