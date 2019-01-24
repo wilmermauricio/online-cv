@@ -17,25 +17,24 @@ sidebar:
     github: JossyDevers
     gitlab: JossyDevers
 
-    Idiomas:
+    languages:
       - idiom: Español
         level: Nativo
 
       - idiom: English
         level: basic
 
-    Intereses:
+    interests:
       - item: Inteligencia artificial
         
 career-profile:
     title: Perfil de la carrera
     summary:
       Programador con experiencia en el desarrollo web, con capacidad para trabajar en equipo utilizando 
-      metodologías ágiles, con habilidad en Back-end (ASP.NET CORE, PHP) y Front-end (VueJS), además 
+      metodologías ágiles, y con habilidad en Back-end (ASP.NET CORE, PHP) y Front-end (VueJS), además 
       con conocimiento en base de datos (SQL SERVER, MYSQL).
 
 education:
-    title: Educación
     - degree: Ingeniería en Software
       university: Universidad APEC
       time: 2019 - Actualidad
@@ -45,14 +44,13 @@ education:
       time: 2016 - 2018
 
 experiences:
-    title: Experiencia
     - role: Programador Web
       time: 2018 - Actualidad
       company: Informatik Solutions Group ISG, srl
       details: |
         Funciones en la empresa:
             Programador Web Front-end en Javascript usando Vue y Vuetify,
-            desempeñado en la creación de Web Applications y PWA, en ocasiones trabajando en ASP.NET Core
+            desempeñado en la creación de Web Applications y PWA, en ocasiones trabajando en Asp.net Core
           
      
 publications:
@@ -71,7 +69,7 @@ publications:
         conference: "+1 (849) 218-1994"
 
 skills:
-    title: Habilidades
+    title: Habilidades & amp; Competencia
 
     toolset:
       - name: HTML5 & CSS3
@@ -84,4 +82,4 @@ skills:
         level: 80%
 
       - name: PHP
-        level: 60%
+        level: 70%
