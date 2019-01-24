@@ -50,7 +50,7 @@ experiences:
       details: |
         Funciones en la empresa:
             Programador Web Front-end en Javascript usando Vue y Vuetify,
-            desempeñado en la creación de Web Applications y PWA, en ocasiones trabajando en Asp.net Core
+            desempeñado en la creación de Web Applications y PWA, en ocasiones trabajando en ASP.NET CORE
           
      
 publications:
@@ -80,12 +80,12 @@ skills:
         
       - name: C# & ASP.NET Core
         level: 80%
+        
+      - name: SQL SERVER
+        level: 70%
 
       - name: PHP
         level: 60%
-       
-      - name: SQL SERVER
-        level: 70%
         
       - name: MYSQL
         level: 60%
