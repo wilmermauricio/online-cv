@@ -29,12 +29,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Programador web con experiencia, he trabajado en diversos proyectos haciendo usando uso de las siguentes tecnólogias: Vue, Javascript, Asp.Net Core
+      Programador web con experiencia, he trabajado en diversos proyectos haciendo uso de las siguentes tecnólogias: Vue, Javascript, Asp.Net Core
       y C#.
 education:    
     - degree: Tecnólogo en Software
       university:  Instituto Tecnológico de las Américas (ITLA)
       time: 2015 - 2018
+    - degree: Inglés
+      university:  Escuela de Idiomas (APEC)
+      time: 2014 - 2015
 
 experiences:
     - role: Desarrollador Web
