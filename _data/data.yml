@@ -7,12 +7,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Wilmer Mauricio Reyes de la Cruz
-    tagline: Desarrollador Web
+    name: Wilmer Reyes
+    tagline: Programador Web
     avatar: wilmer.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: wilmermauricioreyeswmr@gmail.com
+    email: wilmer.mauricio@outlook.com
     phone: 829 705 7800
     github: WilmerMauricio
 
@@ -21,7 +21,7 @@ sidebar:
         level: Nativo
 
       - idiom: English
-        level: basic
+        level: Intermedio
 
     interests:
       - item: Redes Neuronales
@@ -29,7 +29,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Soy desarrollador web con experiencia, he trabajado con las siguientes tecnologías:Vuetify, VueJs, Javascript, C#, ASP.NET Core 2.0 
+      Programador web con experiencia, he trabajado en diversos proyectos haciendo usando uso de las siguentes tecnólogias: Vue, Javascript, Asp.Net Core
+      y C#.
 education:    
     - degree: Tecnólogo en Software
       university:  Instituto Tecnológico de las Américas (ITLA)
