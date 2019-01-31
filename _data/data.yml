@@ -49,7 +49,12 @@ experiences:
          de estás del lado del front.
                
 publications:
- 
+    title: Personal references
+    papers:
+      - title: Wilson Achille Naut, Software Developer, WEPSYS
+        authors: Software Developer, Claro
+        conference: "+1 (829) 727-8985"
+
 skills:
     title: Skills
 
@@ -67,7 +72,4 @@ skills:
         level: 70%
 
       - name: PHP
-        level: 60%
-        
-      - name: MYSQL SERVER
         level: 60%
