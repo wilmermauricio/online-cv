@@ -7,15 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jossy Emil Devers
-    tagline: Web Developer
-    avatar: jossy.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Wilmer Mauricio Reyes de la Cruz
+    tagline: Desarrollador Web
+    avatar: wilmer.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: Jossydevers@gmail.com
-    phone: 809 850 3232
-    github: JossyDevers
-    gitlab: JossyDevers
+    email: wilmermauricioreyeswmr@gmail.com
+    phone: 829 705 7800
+    github: WilmerMauricio
 
     languages:
       - idiom: Español
@@ -25,48 +24,31 @@ sidebar:
         level: basic
 
     interests:
-      - item: Inteligencia artificial
+      - item: Redes Neuronales
         
 career-profile:
     title: Career Profile
-    summary:
-      Programador con experiencia en el desarrollo web, capacidado para trabajar en equipo utilizando 
-      metodologías ágiles, con habilidad en Back-end (ASP.NET CORE, PHP) y Front-end (VueJS), además 
-      con conocimiento en base de datos (SQL SERVER, MYSQL).
-
-education:
-    - degree: Ingeniería en Software
-      university: Universidad APEC
-      time: 2019 - Actualidad
-        
+    summary: |
+      Soy desarrollador web con experiencia, he trabajado con las siguientes tecnologías:Vuetify, VueJs, Javascript, C#, ASP.NET Core 2.0 
+education:    
     - degree: Tecnólogo en Software
-      university: Instituto Tecnológico de Las Américas
-      time: 2016 - 2018
+      university:  Instituto Tecnológico de las Américas (ITLA)
+      time: 2015 - 2018
 
 experiences:
-    - role: Web Developer
-      time: 2018 - Actualidad
+    - role: Desarrollador Web
+      time: 2018 
       company: Informatik Solutions Group ISG, srl
       details: |
         Funciones en la empresa:
-            Programador Web Front-end en Javascript usando Vue y Vuetify,
-            desempeñado en la creación de Web Applications y PWA, en ocasiones trabajando en ASP.NET CORE
-          
-     
+         Desarrollador Font-End
+               
 publications:
     title: Personal references
     papers:
-      - title: Sergio Joel Ferreras Batista
-        authors: Software Developer, Claro
-        conference: "+1 (829) 727-8985"
-
-      - title: Mikhael Santos Fernández
-        authors: Software Developer, Universidad Nacional Pedro Henríquez Ureña
-        conference: "+1 (849) 351-8051"
-
-      - title: Marcos Gonzalez
+      - title: Jossy Devers Sánchez
         authors: Software Developer, Informatik Solutions Group ISG, srl
-        conference: "+1 (849) 218-1994"
+        conference: ""
 
 skills:
     title: Skills
@@ -87,5 +69,5 @@ skills:
       - name: PHP
         level: 60%
         
-      - name: MYSQL
+      - name: MYSQL SERVER
         level: 60%
