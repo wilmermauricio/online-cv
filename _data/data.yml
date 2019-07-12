@@ -46,6 +46,15 @@ experiences:
         Funciones en la empresa:
          Mi funciones en la empresa consistía en creación de API's web para trabajar con comandos ZPL, RFID y la implementación de algunas
          de estás del lado del front.
+
+    - role: Desarrollador Web y Móvil
+      time: 2019 
+      company: Informatik Solutions Group ISG, srl
+      details: |
+        Funciones en la empresa:
+         Trabajé desallando aplicaciones móviles usando Ionic y en el desarrollo de aplicaciones web usando VueJs y Asp.Net Core  
+         
+         
                
 publications:
     title: Personal references
