@@ -59,10 +59,10 @@ skills:
 
     toolset:
       - name: HTML5 & CSS3
-        level: 95%
+        level: 90%
 
       - name: Javascript & Vue.Js
-        level: 90%
+        level: 85%
         
       - name: C# & ASP.NET Core
         level: 75%
@@ -70,5 +70,5 @@ skills:
       - name: SQL SERVER
         level: 70%
 
-      - name: PHP
-        level: 60%
+      - name: Ionic
+        level: 65%
