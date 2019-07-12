@@ -69,11 +69,11 @@ skills:
         
       - name: SQL SERVER
         level: 70%
-
-      - name: Ionic
-        level: 65%
         
       - name: Angular
         level: 50%
+        
+      - name: Ionic
+        level: 65%        
   
         
