@@ -15,7 +15,7 @@ sidebar:
     email: wilmer.mauricio@outlook.com
     phone: 829 705 7800
 
-    idiomas:
+    Idiomas:
       - idiom: Español
         level: Nativo
 
@@ -35,7 +35,7 @@ education:
       university:  Instituto Tecnológico de las Américas (ITLA)
       time: 2015 - 2018
     - degree: Inglés
-      university:  Escuela de Idiomas (APEC)t
+      university:  Escuela de Idiomas (APEC)
       time: 2014 - 2015
 
 experiences:
@@ -46,7 +46,6 @@ experiences:
         Funciones en la empresa:
          Mi funciones en la empresa consistía en creación de API's web para trabajar con comandos ZPL, RFID y la implementación de algunas
          de estás del lado del front.
-
     - role: Desarrollador Web y Móvil
       time: 2019 
       company: OrionTek
@@ -85,4 +84,4 @@ skills:
       - name: Ionic
         level: 65%        
   
-        
+    
